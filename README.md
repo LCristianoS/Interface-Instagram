@@ -1,6 +1,6 @@
-# Olá! Neste repositório você encontra a interface de login do Instagram :happy:
+# Olá! Neste repositório você encontra a interface de login do Instagram :books:
 
-Esse é um repositório baseado nas aulas obtidas pela Digital Inovation One! :books:
+Esse é um repositório baseado nas aulas da Digital Inovation One! :v:
 
 ### Os requisitos utilizados:
 
